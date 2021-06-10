@@ -1,3 +1,5 @@
+Blog Post: https://nickcharlton.net/posts/terraform-aws-vpc.html
+
 # terraform-aws-vpc
 
 This repository contains a [Terraform][] project that builds [Scenario 2: VPC
